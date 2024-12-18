@@ -1,0 +1,93 @@
+THÔNG TIN VỀ NGÀNH AN TOÀN THÔNG TIN TẠI HỌC VIỆN CÔNG NGHỆ BƯU CHÍNH VIỄN THÔNG
+Mã ngành An toàn thông tin là 7480202
+Thời gian đào tạo ngành An toàn thông tin 4.5 năm có tổng cộng 9 học kỳ, trong đó 8 học kì tích lũy kiến thức tại Học viện và 1 kỳ thực tập chuyên sâu, thực tập thực tế tại doanh nghiệp. Cuối khóa, sinh viên làm Khóa luận tốt nghiệp hoặc hoàn thành các học phần thay thế tốt nghiệp. 
+Sinh viên được đào tạo theo phương thức đào tạo tín chỉ, áp dụng Quy chế đào tạo tín chỉ hiện hành của Bộ Giáo dục & Đào tạo và của Học viện.
+Nơi đào tạo ngành An toàn thông tin tại cơ sở ở TP. Hồ Chí Minh và Hà Nội
+Khối lượng chương trình ngành An toàn thông tin: 150 tín chỉ (không bao gồm Giáo dục thể chất, Giáo dục quốc phòng và Kỹ năng mềm)
+Tổ hợp xét tuyển ngành An toàn thông tin: Toán – Lý – Hóa (A00) hoặc Toán – Lý – Anh (A01)
+Kết thúc khóa học, sinh viên được công nhận tốt nghiệp và cấp bằng Kỹ sư An toàn thông tin trình độ đại học hệ chính quy khi đã hội tụ đủ các tiêu chuẩn theo quy chế đào tạo đại học theo hệ thống tín chỉ.
+
+Chuẩn đầu ra của ngành An toàn thông tin:
+1.1 Về Kiến thức
+Chương trình trang bị cho sinh viên những kiến thức sau:
+(1) Kiến thức giáo dục đại cương: trang bị cho sinh viên các kiến thức giáo dục đại cương về Lý luận chính trị, Khoa học tự nhiên, Khoa học xã hội và nhân văn; chú trọng các môn Toán học, Vật lý và Tin học để làm nền tảng cho sinh viên khi học kiến thức ngành.
+(2) Kiến thức cơ sở ngành: trang bị cho sinh viên những kiến thức về toán chuyên ngành, các kiến thức cơ bản về công nghệ thông tin như kỹ thuật và ngôn ngữ lập trình, kiến trúc máy tính, hệ điều hành, cơ sở dữ liệu, mạng máy tính, công nghệ phần mềm, cơ sở an toàn thông tin, mật mã học cơ sở.
+(3) Kiến thức ngành: trang bị cho sinh viên kiến thức chuyên sâu về An toàn thông tin như: các kỹ thuật mật mã nâng cao, an toàn mạng máy tính, an toàn hệ điều hành, an toàn các ứng dụng web, an toàn cơ sở dữ liệu, các kỹ thuật tấn công và xâm nhập mạng, mô hình bảo vệ và các kỹ thuật phòng thủ chống tấn công xâm nhập, quản trị mạng an toàn, lập trình web, lập trình mạng và ứng dụng di động, thiết kế các phần mềm và công cụ đảm bảo an toàn, quản lý và đánh giá điểm yếu, lỗ hổng, các kỹ thuật kiểm tra đánh giá an toàn, các vấn đề về chính sách, pháp luật và chuẩn hóa an toàn thông tin.
+1.2 Về Kỹ năng
+(4) Áp dụng các các kiến thức, kỹ năng; sử dụng các công cụ khoa học kỹ thuật để nhận biết, phân tích, giải quyết các vấn đề liên quan đến an toàn, bảo mật thông tin mạng;
+(5) Thu thập, phân tích tìm hiểu và tổng hợp các yêu cầu về an ninh, bảo mật từ hệ thống thông tin để phục vụ công tác nghiên cứu, xây dựng và phát triển hệ thống an toàn, an ninh thông tin;
+(6) Thiết kế và triển khai các ứng dụng đảm bảo an toàn thông tin đáp ứng các yêu cầu kỹ thuật đặt ra trong điều kiện thực tế;
+(7) Tìm kiếm, tiếp cận, ứng dụng hiệu quả và sáng tạo các kỹ thuật, kỹ năng và công cụ hiện đại để giải quyết những vấn đề thực tế của lĩnh vực An toàn thông tin.
+1.3 Về Kỹ năng mềm
+(8) Có kỹ năng giao tiếp và thuyết trình tốt thể hiện qua việc trình bày rõ ràng, tự tin và thuyết phục các vấn đề liên quan đến chuyên môn và các vấn đề kinh tế xã hội;
+(9) Có kỹ năng làm việc nhóm, biết thành lập và tổ chức tốt công việc theo nhóm;
+(10) Có các kỹ năng cá nhân và phẩm chất nghề nghiệp trong việc giải quyết vấn đề, tư duy sáng tạo, lập kế hoạch và tổ chức công việc;
+(11) Có phương pháp làm việc khoa học và chuyên nghiệp, tư duy hệ thống và tư duy phân tích và làm việc hiệu quả trong nhóm (đa ngành), hội nhập được trong môi trường quốc tế.
+1.4 Về Năng lực tự chủ và trách nhiệm
+(12) Có thức nghề nghiệp, trách nhiệm công dân, chủ động sáng tạo, có ý thức và năng lực hợp tác trong công việc;
+(13) Có khả năng tự định hướng, thích nghi với các môi trường làm việc khác nhau; tự học tập, tích lũy kiến thức, kinh nghiệm để nâng cao trình độ chuyên môn nghiệp vụ;
+(14) Có sáng kiến trong quá trình thực hiện nhiệm vụ được giao; có khả năng đưa ra được kết luận về các vấn đề nghiệp vụ và kỹ thuật phức tạp về công nghệ tài chính;
+(15) Có năng lực lập kế hoạch, điều phối, phát huy trí tuệ tập thể và đánh giá, cải tiến các hoạt động chuyên môn.
+1.5 Về Hành vi đạo đức
+(16) Có phẩm chất đạo đức tốt, tính kỷ luật cao, biết làm việc tập thể theo nhóm, theo dự án, say mê khoa học và luôn tự rèn luyện nâng cao phẩm chất chính trị và năng lực chuyên môn;
+(17) Hiểu biết về các giá trị đạo đức và nghề nghiệp, ý thức về những vấn đề đương đại, hiểu rõ vai trò của các giải pháp kỹ thuật trong bối cảnh kinh tế, môi trường, xã hội toàn cầu và trong bối cảnh riêng của đất nước;
+(18) Ý thức được sự cần thiết phải thường xuyên học tập nâng cao trình độ, có năng lực chuyên môn và khả năng ngoại ngữ để tự học suốt đời.
+1.6 Về Ngoại ngữ (Tiếng Anh)
+(19) Đạt trình độ tiếng Anh 450 điểm TOEIC quốc tế hoặc tương đương;
+(20) Có khả năng sử dụng tiếng Anh phục vụ học tập, nghiên cứu, hoà nhập nhanh với cộng đồng công nghệ thông tin khu vực và quốc tế sau khi ra trường.
+(21) Có khả năng sử dụng tiếng Anh tốt trong các hoạt động liên quan đến nghề nghiệp được đào tạo.
+1.7   Về Vị trí việc làm sau khi tốt nghiệp
+Sinh viên ngành An toàn thông tin sau khi tốt nghiệp ra trường có khả năng làm việc tại các đơn vị/bộ phận chuyên về An toàn thông tin và mạng cũng như các cơ quan, tổ chức, doanh nghiệp ứng dụng CNTT như: các cơ quan chính phủ, các cơ quan thuộc các lĩnh vực tài chính, ngân hàng, bảo hiểm, viễn thông, năng lượng điện, dầu khí, thương mại, giao thông vận tải… với các vị trí công việc:
+a. Quản trị bảo mật máy chủ và mạng
+b. Bảo mật hệ điều hành và cơ sở dữ liệu
+c. Phân tích, tư vấn, thiết kế hệ thống thông tin đảm bảo an toàn
+d. Kiểm tra, đánh giá an toàn thông tin cho mạng và hệ thống
+e. Rà quét lỗ hổng, điểm yếu và xử lý sự cố an toàn thông tin
+f. Lập trình và phát triển ứng dụng đảm bảo an toàn thông tin
+Sau một thời gian tích luỹ kinh nghiệm, Kỹ sư An toàn thông tin có đủ khả năng đảm nhận các chức vụ quản lý về an toàn thông tin, như Trưởng nhóm hoặc Giám đốc bộ phận đảm bảo an toàn thông tin.
+- Có năng lực làm việc ở vị trí cán bộ nghiên cứu, cán bộ giảng dạy về An toàn thông tin tại các Viện, Trung tâm nghiên cứu và các cơ sở đào tạo;
+- Có thể học tiếp lên trình độ sau đại học ở trong nước và nước ngoài trong lĩnh vực công nghệ thông tin (An toàn, bảo mật thông tin).
+
+Nghề nghiệp, vị trí việc làm sau khi tốt nghiệp ngành An toàn thông tin:
+-   Sinh viên ngành An toàn thông tin sau khi tốt nghiệp ra trường có khả năng làm việc tại các đơn vị/bộ phận chuyên về An toàn thông tin và mạng cũng như các cơ quan, tổ chức, doanh nghiệp ứng dụng CNTT như: các cơ quan chính phủ, các cơ quan thuộc các lĩnh vực tài chính, ngân hàng, bảo hiểm, viễn thông, năng lượng điện, dầu khí, thương mại, giao thông vận tải… với các vị trí công việc:
+1.Quản trị bảo mật máy chủ và mạng
+2. Bảo mật hệ điều hành và cơ sở dữ liệu
+3. Phân tích, tư vấn, thiết kế hệ thống thông tin đảm bảo an toàn
+4. Kiểm tra, đánh giá an toàn thông tin cho mạng và hệ thống
+5. Rà quét lỗ hổng, điểm yếu và xử lý sự cố an toàn thông tin
+6. Lập trình và phát triển ứng dụng đảm bảo an toàn thông tin
+Sau một thời gian tích luỹ kinh nghiệm, Kỹ sư An toàn thông tin có đủ khả năng đảm nhận các chức vụ quản lý về an toàn thông tin, như Trưởng nhóm hoặc Giám đốc bộ phận đảm bảo an toàn thông tin.
+- Có năng lực làm việc ở vị trí cán bộ nghiên cứu, cán bộ giảng dạy về An toàn thông tin tại các Viện, Trung tâm nghiên cứu và các cơ sở đào tạo;
+- Có thể học tiếp lên trình độ sau đại học ở trong nước và nước ngoài trong lĩnh vực công nghệ thông tin (An toàn, bảo mật thông tin).
+
+Điều kiện tuyển sinh ngành An toàn thông tin:
+a) Quy định chung:
+- Đối tượng dự tuyển được xác định tại thời điểm xét tuyển (trước khi công bố kết quả xét tuyển chính thức) là các thí sinh đã được công nhận tốt nghiệp trung học phổ thông (THPT) của Việt Nam hoặc có bằng tốt nghiệp của nước ngoài được công nhận trình độ tương đương hoặc đã có bằng tốt nghiệp trung cấp ngành nghề thuộc cùng nhóm ngành dự tuyển và đã hoàn thành đủ yêu cầu khối lượng kiến thức văn hóa cấp THPT theo quy định của pháp luật;
+- Có đủ thông tin cá nhân, hồ sơ dự tuyển theo quy định;
+- Đáp ứng các điều kiện khác theo quy chế tuyển sinh hiện hành của Bộ Giáo dục và Đào tạo và của Học viện.
+b) Đối với Phương thức 1 - Xét tuyển tài năng:
+Ngoài các yêu cầu theo quy định chung ở mục a) thì thí sinh cần có thêm một trong các điều kiện như sau:
+(1) Xét tuyển thẳng và ưu tiên xét tuyển: thí sinh là thành viên đội tuyển Olympic quốc tế hoặc đoạt giải Quốc gia, Quốc tế theo Quy chế tuyển sinh hiện hành của Bộ Giáo dục và Đào tạo và của Học viện (có thông báo chi tiết riêng).
+(2) Xét tuyển dựa vào hồ sơ năng lực: thí sinh cần có thêm một trong các điều kiện sau đây:
+Thí sinh đoạt giải Khuyến khích trong kỳ thi chọn học sinh giỏi quốc gia hoặc đã tham gia kỳ thi chọn học sinh giỏi quốc gia hoặc đoạt giải Nhất, Nhì, Ba, Khuyến khích trong kỳ thi chọn học sinh giỏi cấp Tỉnh, Thành phố trực thuộc Trung ương (TW) các môn Toán, Lý, Hóa, Tin học và có kết quả điểm trung bình chung học tập lớp 10, 11, 12 hoặc học kỳ 1 lớp 12 (nếu chưa có kết quả năm học lớp 12) đạt từ 7,5 trở lên và có hạnh kiểm Khá trở lên;
+Là học sinh chuyên các môn Toán, Lý, Hóa, Tin học của trường THPT chuyên trên phạm vi toàn quốc (các trường THPT chuyên thuộc Tỉnh, Thành phố trực thuộc TW và các trường THPT chuyên thuộc Cơ sở giáo dục đại học) hoặc hệ chuyên thuộc các trường THPT trọng điểm quốc gia; Và có kết quả điểm trung bình chung học tập lớp 10, 11, 12 hoặc học kỳ 1 lớp 12 (nếu chưa có kết quả năm học lớp 12) đạt từ 7,5 trở lên và có hạnh kiểm Khá trở lên.
+c) Đối với Phương thức 2 - Xét tuyển dựa vào kết quả thi tốt nghiệp THPT năm 2024:
+Ngoài các yêu cầu theo quy định chung ở mục a) thì thí sinh phải tham dự kỳ thi tốt nghiệp THPT năm 2024 với các bài thi/môn thi theo tổ hợp xét tuyển tương ứng các ngành của Học viện.
+d) Đối với Phương thức 3 - Xét tuyển kết hợp:
+Ngoài các yêu cầu theo quy định chung ở mục a) thì thí sinh cần có thêm một trong các điều kiện sau đây:
+Thí sinh có Chứng chỉ quốc tế SAT, trong thời hạn 02 năm (tính đến ngày xét tuyển) từ 1130/1600 trở lên hoặc ACT từ 25/36 trở lên; và có kết quả điểm trung bình chung học tập lớp 10, 11, 12 hoặc học kỳ 1 lớp 12 (nếu chưa có kết quả năm học lớp 12) đạt từ 7,5 trở lên và có hạnh kiểm Khá trở lên;
+Thí sinh có Chứng chỉ tiếng Anh quốc tế trong thời hạn (tính đến ngày xét tuyển) đạt IELTS 5.5 trở lên hoặc TOEFL iBT 65 trở lên hoặc TOEFL ITP 513 trở lên; và có kết quả điểm trung bình chung học tập lớp 10, 11, 12 hoặc học kỳ 1 lớp 12 (nếu chưa có kết quả năm học lớp 12) đạt từ 7,5 trở lên và có hạnh kiểm Khá trở lên.
+e) Đối với Phương thức 4 - Xét tuyển dựa vào kết quả bài thi đánh giá năng lực (ĐGNL) hoặc đánh giá tư duy (ĐGTD):
+Ngoài các yêu cầu theo quy định chung ở mục a) thì thí sinh cần có thêm một trong các điều kiện sau đây:
+Thí sinh có điểm thi đánh giá năng lực của Đại học quốc gia Hà Nội (HSA) năm 2024 từ 75 điểm trở lên;
+Thí sinh có điểm thi đánh giá năng lực của Đại học quốc gia Tp. Hồ Chí Minh (APT) năm 2024 từ 600 điểm trở lên;
+Thí sinh có điểm thi đánh giá tư duy của Đại học Bách khoa Hà Nội (TSA) năm 2024 từ 50 điểm trở lên.
+
+Phạm vi tuyển sinh ngành An toàn thông tin: Học viện tuyển sinh trên phạm vi cả nước, thí sinh đăng ký xét tuyển vào Cơ sở đào tạo (BVH hoặc BVS) nào thì sẽ theo học tại Cơ sở đó.
+
+Phương thức tuyển sinh ngành An toàn thông tin:
+Học viện Công nghệ Bưu chính Viễn thông sử dụng 04 phương thức tuyển sinh như sau:
+a) Tuyển thẳng và ưu tiên xét tuyển: Học viện xét tuyển thẳng và ưu tiên xét tuyển theo Quy chế tuyển sinh hiện hành của Bộ Giáo dục và Đào tạo (có thông báo chi tiết riêng);
+b) Xét tuyển dựa vào kết quả điểm thi tốt nghiệp THPT;
+c) Xét tuyển kết hợp giữa kết quả học tập ở bậc THPT với một trong các loại Chứng chỉ quốc tế hoặc Thành tích cá nhân trong các kỳ thi tuyển chọn học sinh giỏi như đã nêu trong điểm c) mục 1. về Đối tượng tuyển sinh ở trên (chi tiết sẽ có trong thông báo tuyển sinh);
+d) Xét tuyển dựa kết quả bài thi đánh giá năng lực hoặc đánh giá tư duy.

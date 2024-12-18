@@ -1,0 +1,74 @@
+THÔNG TIN VỀ NGÀNH KỸ THUẬT KHOA HỌC MÁY TÍNH TẠI HỌC VIỆN CÔNG NGHỆ BƯU CHÍNH VIỄN THÔNG
+Chương trình đào tạo ngành Khoa học máy tính (định hướng Khoa học dữ liệu) tại Học viện Công nghệ Bưu chính Viễn thông được thiết kế nhằm đào tạo và cung ứng nhân lực trình độ kỹ sư Khoa học máy tính (định hướng Khoa học dữ liệu) trong bối cảnh hội nhập quốc tế và phát triển của nền kinh tế số. Sinh viên tốt nghiệp được trang bị các kỹ năng nghề nghiệp trong tương lai về khoa học máy tính, khoa học dữ liệu bao gồm cả chuyên môn, phẩm chất chính trị, đạo đức nghề nghiệp, và kỹ năng mềm. Chương trình đào tạo ngành Khoa học máy tính (định hướng Khoa học dữ liệu) nằm trong chiến lược phát triển của Học viện với nội dung “Tri thức – Sáng tạo – Đạo đức - Trách nhiệm” hướng tới mục tiêu đào tạo ra những con người “vừa có tài vừa có đức” để đóng góp cho sự phát triển chung của đất nước, của nhân loại.
+Mã ngành Kỹ thuật điều khiển và tự động hóa là 7480101
+Thời gian đào tạo ngành Kỹ thuật điều khiển và tự động hóa 4.5 năm có tổng cộng 9 học kỳ, trong đó 8 học kì tích lũy kiến thức tại Học viện và 1 kỳ thực tập chuyên sâu, thực tập thực tế tại doanh nghiệp. Cuối khóa, sinh viên làm Khóa luận tốt nghiệp hoặc hoàn thành các học phần thay thế tốt nghiệp.
+Sinh viên được đào tạo theo phương thức đào tạo tín chỉ, áp dụng Quy chế đào tạo tín chỉ hiện hành của Bộ Giáo dục & Đào tạo và của Học viện.
+Nơi đào tạo ngành Kỹ thuật điều khiển và tự động hóa tại cơ sở ở TP. Hồ Chí Minh và Hà Nội
+Khối lượng chương trình ngành Kỹ thuật điều khiển và tự động hóa: 150 tín chỉ (không bao gồm Giáo dục thể chất, Giáo dục quốc phòng và Kỹ năng mềm)
+Tổ hợp xét tuyển ngành Khoa học máy tính: Toán – Lý – Hóa (A00) hoặc Toán – Lý – Anh (A01)
+
+Chuẩn đầu ra ngành Khoa học máy tinh:
+1. Chuẩn về kiến thức
+LO1: Có hiểu biết về Lý luận của Chủ nghĩa Mác Lênin và Tư tưởng Hồ Chí Minh; nắm vững kiến thức về Khoa học tự nhiên, đặt biệt là Toán học.
+LO2: Nắm vững kiến thức cơ sở ngành Khoa học máy tính, bao gồm Hệ thống máy tính, Lập trình máy tính, Mạng máy tính và an toàn thông tin, Lưu trữ và truy vấn dữ liệu, Phát triển phần mềm, và Các ứng dụng quan trọng của Khoa học máy tính.
+LO3: Có kiến thức chuyên sâu về Khoa học máy tính, tập trung vào Khoa học dữ liệu, Trí tuệ nhân tạo, Học máy, và Các phương pháp phân tích dữ liệu.
+2. Chuẩn về kỹ năng
+2.1 Kỹ năng nghề nghiệp chung
+LO4: Áp dụng tri thức toán học, khoa học, và công nghệ để xác định, mô hình và giải quyết các vấn đề công nghệ.
+LO5: Thiết kế và thực hiện các thực nghiệm, cũng như phân tích, đánh giá, và diễn giải các kết quả thực nghiệm.
+LO6: Thiết kế hệ thống, các thành phần, các tiến trình phù hợp với những ràng buộc thực tế trên nhiều khía cạnh như kinh tế, môi trường, xã hội, chính trị, văn hóa, an toàn sức khỏe, công nghiệp và bền vững.
+LO7: Nhận biết, mô hình, và giải quyết các vấn đề công nghệ.
+LO8: Thể hiện được tri thức và năng lực làm việc với các vấn đề đương đại.
+LO9: Áp dụng các kỹ thuật, kỹ năng và công cụ công nghệ hiện đại vào thực hành.
+LO10: Chuyển đổi các lý thuyết và khái niệm kỹ thuật vào các ứng dụng thực tế.
+2.2. Kỹ năng nghề nghiệp chuyên ngành
+LO11: Tiến hành thu thập dữ liệu, các thông tin liên quan cho việc xây dựng các hệ thống thông minh.
+LO12: Tiến hành tiền xử lý dữ liệu, làm sạch dữ liệu, và trực quan hóa dữ liệu.
+LO13: Lựa chọn đặc trưng, xây dựng và tối ưu các mô hình phân tích dữ liệu sử dụng các kỹ thuật học máy.
+LO14: Đánh giá tính hiệu quả của các mô hình phân tích dữ liệu.
+LO15: Áp dụng các tri thức đã học để phát triển và giải quyết các vấn đề chính trong các dự án về phân tích dữ liệu.
+2.3 Kỹ năng mềm
+LO16: Hoạt động trong các nhóm đa ngành.
+LO17: Đạt trình độ tiếng Anh 450 điểm TOEIC quốc tế; Có khả năng sử dụng tiếng Anh chuyên ngành để phục vụ công việc, học tập và nghiên cứu; Giao tiếp, làm việc trong môi trường quốc tế.
+3. Năng lực tự chủ và trách nhiệm
+LO18: Hiểu rõ đạo đức và trách nhiệm nghề nghiệp.
+LO19: Hiểu được sự ảnh hưởng của các giải pháp công nghệ trong ngữ cảnh môi trường, kinh tế, xã hội toàn cầu, đất nước.
+
+Nghề nghiệp, vị trí việc làm sau khi tốt nghiệp ngành Khoa học máy tính:
+Sinh viên sau khi tốt nghiệp ngành Khoa học máy tính (định hướng Khoa học dữ liệu) phù hợp với các vị trí việc làm sau:
+- Có thể trở thành cán bộ kỹ thuật, quản lý, điều hành trong lĩnh vực khoa học máy tính;
+- Có thể trở thành các lập trình viên, quản trị dự án, chuyên gia trí tuệ nhân tạo, chuyên gia phân tích dữ liệu;
+- Có thể trở thành cán bộ nghiên cứu, cán bộ giảng dạy về khoa học máy tính (đặc biệt theo chuyên ngành khoa học dữ liệu) tại các Viện, Trung tâm nghiên cứu và các Cơ sở đào tạo;
+- Có thể tiếp tục học tiếp lên trình độ sau đại học ở trong nước và nước ngoài, trở thành các nhà khoa học về khoa học máy tính, khoa học dữ liệu.
+
+Điều kiện tuyển sinh ngành Khoa học máy tinh:
+a) Quy định chung:
+- Đối tượng dự tuyển được xác định tại thời điểm xét tuyển (trước khi công bố kết quả xét tuyển chính thức) là các thí sinh đã được công nhận tốt nghiệp trung học phổ thông (THPT) của Việt Nam hoặc có bằng tốt nghiệp của nước ngoài được công nhận trình độ tương đương hoặc đã có bằng tốt nghiệp trung cấp ngành nghề thuộc cùng nhóm ngành dự tuyển và đã hoàn thành đủ yêu cầu khối lượng kiến thức văn hóa cấp THPT theo quy định của pháp luật;
+- Có đủ thông tin cá nhân, hồ sơ dự tuyển theo quy định;
+- Đáp ứng các điều kiện khác theo quy chế tuyển sinh hiện hành của Bộ Giáo dục và Đào tạo và của Học viện.
+b) Đối với Phương thức 1 - Xét tuyển tài năng:
+Ngoài các yêu cầu theo quy định chung ở mục a) thì thí sinh cần có thêm một trong các điều kiện như sau:
+(1) Xét tuyển thẳng và ưu tiên xét tuyển: thí sinh là thành viên đội tuyển Olympic quốc tế hoặc đoạt giải Quốc gia, Quốc tế theo Quy chế tuyển sinh hiện hành của Bộ Giáo dục và Đào tạo và của Học viện (có thông báo chi tiết riêng).
+(2) Xét tuyển dựa vào hồ sơ năng lực: thí sinh cần có thêm một trong các điều kiện sau đây:
+Thí sinh đoạt giải Khuyến khích trong kỳ thi chọn học sinh giỏi quốc gia hoặc đã tham gia kỳ thi chọn học sinh giỏi quốc gia hoặc đoạt giải Nhất, Nhì, Ba, Khuyến khích trong kỳ thi chọn học sinh giỏi cấp Tỉnh, Thành phố trực thuộc Trung ương (TW) các môn Toán, Lý, Hóa, Tin học và có kết quả điểm trung bình chung học tập lớp 10, 11, 12 hoặc học kỳ 1 lớp 12 (nếu chưa có kết quả năm học lớp 12) đạt từ 7,5 trở lên và có hạnh kiểm Khá trở lên;
+Là học sinh chuyên các môn Toán, Lý, Hóa, Tin học của trường THPT chuyên trên phạm vi toàn quốc (các trường THPT chuyên thuộc Tỉnh, Thành phố trực thuộc TW và các trường THPT chuyên thuộc Cơ sở giáo dục đại học) hoặc hệ chuyên thuộc các trường THPT trọng điểm quốc gia; Và có kết quả điểm trung bình chung học tập lớp 10, 11, 12 hoặc học kỳ 1 lớp 12 (nếu chưa có kết quả năm học lớp 12) đạt từ 7,5 trở lên và có hạnh kiểm Khá trở lên.
+c) Đối với Phương thức 2 - Xét tuyển dựa vào kết quả thi tốt nghiệp THPT năm 2024:
+Ngoài các yêu cầu theo quy định chung ở mục a) thì thí sinh phải tham dự kỳ thi tốt nghiệp THPT năm 2024 với các bài thi/môn thi theo tổ hợp xét tuyển tương ứng các ngành của Học viện.
+d) Đối với Phương thức 3 - Xét tuyển kết hợp:
+Ngoài các yêu cầu theo quy định chung ở mục a) thì thí sinh cần có thêm một trong các điều kiện sau đây:
+Thí sinh có Chứng chỉ quốc tế SAT, trong thời hạn 02 năm (tính đến ngày xét tuyển) từ 1130/1600 trở lên hoặc ACT từ 25/36 trở lên; và có kết quả điểm trung bình chung học tập lớp 10, 11, 12 hoặc học kỳ 1 lớp 12 (nếu chưa có kết quả năm học lớp 12) đạt từ 7,5 trở lên và có hạnh kiểm Khá trở lên;
+Thí sinh có Chứng chỉ tiếng Anh quốc tế trong thời hạn (tính đến ngày xét tuyển) đạt IELTS 5.5 trở lên hoặc TOEFL iBT 65 trở lên hoặc TOEFL ITP 513 trở lên; và có kết quả điểm trung bình chung học tập lớp 10, 11, 12 hoặc học kỳ 1 lớp 12 (nếu chưa có kết quả năm học lớp 12) đạt từ 7,5 trở lên và có hạnh kiểm Khá trở lên.
+e) Đối với Phương thức 4 - Xét tuyển dựa vào kết quả bài thi đánh giá năng lực (ĐGNL) hoặc đánh giá tư duy (ĐGTD):
+Ngoài các yêu cầu theo quy định chung ở mục a) thì thí sinh cần có thêm một trong các điều kiện sau đây:
+Thí sinh có điểm thi đánh giá năng lực của Đại học quốc gia Hà Nội (HSA) năm 2024 từ 75 điểm trở lên;
+Thí sinh có điểm thi đánh giá năng lực của Đại học quốc gia Tp. Hồ Chí Minh (APT) năm 2024 từ 600 điểm trở lên;
+Thí sinh có điểm thi đánh giá tư duy của Đại học Bách khoa Hà Nội (TSA) năm 2024 từ 50 điểm trở lên.
+
+Phạm vi tuyển sinh ngành Khoa học máy tinh: Học viện tuyển sinh trên phạm vi cả nước, thí sinh đăng ký xét tuyển vào Cơ sở đào tạo (BVH hoặc BVS) nào thì sẽ theo học tại Cơ sở đó.
+
+Phương thức tuyển sinh ngành Khoa học máy tinh:
+Học viện Công nghệ Bưu chính Viễn thông sử dụng 04 phương thức tuyển sinh như sau:
+a) Tuyển thẳng và ưu tiên xét tuyển: Học viện xét tuyển thẳng và ưu tiên xét tuyển theo Quy chế tuyển sinh hiện hành của Bộ Giáo dục và Đào tạo (có thông báo chi tiết riêng);
+b) Xét tuyển dựa vào kết quả điểm thi tốt nghiệp THPT;
+c) Xét tuyển kết hợp giữa kết quả học tập ở bậc THPT với một trong các loại Chứng chỉ quốc tế hoặc Thành tích cá nhân trong các kỳ thi tuyển chọn học sinh giỏi như đã nêu trong điểm c) mục 1. về Đối tượng tuyển sinh ở trên (chi tiết sẽ có trong thông báo tuyển sinh);
+d) Xét tuyển dựa kết quả bài thi đánh giá năng lực hoặc đánh giá tư duy.

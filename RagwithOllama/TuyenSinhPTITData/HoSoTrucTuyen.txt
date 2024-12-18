@@ -1,0 +1,13 @@
+Quy trình nộp hồ sơ xét tuyển trực tuyến đại học chính quy:
+1. Đăng ký tài khoản trên hệ thống https://xettuyen.ptit.edu.vn với địa chỉ email hoặc tài khoản Google, Facebook
+2. Khai báo thông tin - Thí sinh thực hiện khai báo hồ sơ xét tuyển theo Đề án tuyển sinh của Học viện với 3 phương thức xét tuyển: Xét tuyển tài năng, Xét tuyển kết hợp, Xét tuyển dựa vào kết quả bài thi đánh giá năng lực hoặc đánh giá tư duy.
+3. Đăng ký nguyện vọng - Thí sinh thực hiện đăng ký nguyện vọng xét tuyển trên hệ thống. Mỗi thí sinh được đăng ký tối đa 2 nguyện vọng.
+4. Thanh toán trực tuyến - Thí sinh thực hiện thanh toán Lệ phí xét tuyển. Thí sinh có thể sử dụng phương thức thanh toán qua Mã định danh hoặc Mã QR.
+5. Nộp hồ sơ về Học viện - Thí sinh nộp bộ hồ sơ đăng ký xét tuyển về Học viện (bao gồm phiếu đăng ký xét tuyển in từ hệ thống và các giấy tờ cần thiết khác).
+6. Nhận thông tin kết quả - Thí sinh nhận thông tin kết quả trúng tuyển của Học viện qua địa chỉ email đã đăng ký.
+
+Thời gian tuyển sinh trực tuyến đại học chính quy:
+18/07/2024: THÍ SINH ĐĂNG KÝ, ĐIỀU CHỈNH NGUYỆN VỌNG XÉT TUYỂN
+31/07/2024: NỘP LỆ PHÍ XÉT TUYỂN TRỰC TUYẾN
+19/08/2024: THÔNG BÁO THÍ SINH TRÚNG TUYỂN ĐỢT 1
+27/08/2024: HOÀN THÀNH XÁC NHẬN NHẬP HỌC TRỰC TUYẾN ĐỢT 1 TRÊN HỆ THỐNG

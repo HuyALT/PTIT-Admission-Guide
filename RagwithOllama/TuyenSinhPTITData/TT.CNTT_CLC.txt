@@ -1,0 +1,63 @@
+THÔNG TIN VỀ NGÀNH CÔNG NGHỆ THÔNG TIN CHẤT LƯỢNG CAO(CLC) TẠI HỌC VIỆN CÔNG NGHỆ BƯU CHÍNH VIỄN THÔNG
+Mã ngành Công nghệ thông tin(CLC) là 7480201_CLC
+Thời gian đào tạo ngành Công nghệ thông tin(CLC) 4.5 năm có tổng cộng 9 học kỳ, trong đó 8 học kì tích lũy kiến thức tại Học viện và 1 kỳ thực tập chuyên sâu, thực tập thực tế tại doanh nghiệp. Cuối khóa, sinh viên làm Khóa luận tốt nghiệp hoặc hoàn thành các học phần thay thế tốt nghiệp. 
+Sinh viên được đào tạo theo phương thức đào tạo tín chỉ, áp dụng Quy chế đào tạo tín chỉ hiện hành của Bộ Giáo dục & Đào tạo và của Học viện.
+Nơi đào tạo ngành Công nghệ thông tin(CLC) tại cơ sở ở TP. Hồ Chí Minh và Hà Nội
+Ngành Công nghệ thông tin(CLC) (gồm có 3 chuyên ngành Mạng máy tính và truyền thông dữ liệu, Công nghệ phần mềm, Hệ thống thông tin, không xét tuyển theo chuyên ngành, khi vào học sinh viên tự chọn chuyên ngành)
+Khối lượng chương trình ngành Công nghệ thông tin(CLC): 154 tín chỉ (không bao gồm Giáo dục thể chất, Giáo dục quốc phòng và Kỹ năng mềm)
+Tổ hợp xét tuyển ngành Công nghệ thông tin(CLC): Toán – Lý – Hóa (A00) hoặc Toán – Lý – Anh (A01)
+Chương trình đào tạo ngành Công nghệ thông tin hệ chất lượng cao tại Học viện Công nghệ Bưu chính Viễn thông có mục tiêu trang bị cho sinh viên các kỹ năng nghề nghiệp trong tương lai về công nghệ thông tin bao gồm cả chuyên môn, đạo đức nghề nghiệp, và kỹ năng mềm. Sinh viên tốt nghiệp chương trình đào tạo có thể (The objectives of the Information Technology program at PTIT are to prepare students for future work and careers in computing with proficiency and integrity. Graduates of the program can):
+(1) Làm việc chuyên nghiệp trong ít nhất một trong các lĩnh vực sau: thiết kế phần mềm, phát triển phần mềm, kiểm thử phần mềm, khoa học dữ liệu, học máy, nghiên cứu về khoa học máy tính, an toàn thông tin (Work professionally in one or more of the following areas: software design, developing, and testing; data science, machine learning engineering; computer science research; information security);
+(2) Làm việc hiệu quả, độc lập cũng như tập thể, trong nhiều môi trường làm việc khác nhau (Work effectively in a variety of contexts, both as individuals and in team environments);
+(3) Có khả năng tự học suốt đời để đảm bảo làm việc chuyên nghiệp và hiệu quả trong thế giới công nghệ không ngừng thay đổi (Engage in lifelong learning to remain effective professionals in a constantly changing world of technology);
+(4) Hiểu biết về các giá trị đạo đức nghề nghiệp, ý thức về những vấn đề đương đại, hiểu rõ vai trò của các giải pháp kỹ thuật trong bối cảnh kinh tế, môi trường, xã hội toàn cầu và trong bối cảnh riêng của đất nước (Be aware of professional and societal responsibilities, and committed to ethical actions);
+(5) Sử dụng tiếng Anh thành thạo, làm việc hiệu quả trong môi trường quốc tế (Use English in their work, and work effectively in an international environment).
+
+Chuẩn đầu ra ngành Công nghệ thông tin CLC:
+3.1. Chuẩn về kiến thức (Knowledge)
+LO1: Vận dụng được các kiến thức về Lý luận của Chủ nghĩa Mác Lênin và Tư tưởng Hồ Chí Minh, về Khoa học tự nhiên và xã hội, đặt biệt là Toán học trong học tập, nghiên cứu và làm việc.
+(Apply the knowledge of The Theory of Marxism Leninism and Ho Chi Minh Thought, Natural and Social Science focusing on Mathematics in studying and working).
+LO2: Vận dụng được các kiến thức cơ sở ngành Công nghệ thông tin, bao gồm Hệ thống máy tính, Lập trình máy tính, Mạng máy tính và an toàn thông tin, Lưu trữ và truy vấn dữ liệu, Phát triển phần mềm, Trí tuệ nhân tạo và Các ứng dụng quan trọng của Công nghệ thông tin trong học tập và làm việc.
+(Apply the base-building knowledge of information technology, including computer systems, computer programming, computer network and security, databases, software development, artificial intelligence, important applications of information technology in studying and working).
+LO3: Vận dụng được các kiến thức chuyên sâu về thiết kế, phát triển, cài đặt, vận hành và bảo trì phần mềm (với chuyên ngành Công nghệ phần mềm); thu thập, xử lý, phân tích dữ liệu và xây dựng các hệ thống thông minh (với chuyên ngành Trí tuệ nhân tạo); và xây dựng, phát triển và vận hành các hệ thống thông tin (với chuyên ngành Hệ thống thông tin).
+(Apply the in-depth knowledge of software design, development, installation, operation and maintenance (with a major in Software Engineering); collecting, processing, analyzing data and building intelligent systems (with a major in Artificial Intelligence); and building, developing and deploying information systems (with a major in Information Systems) in studying and working).
+3.2. Chuẩn về kỹ năng (Skills)
+3.2.1 Kỹ năng nghề nghiệp chung (General Career Skills)
+LO4: Áp dụng tri thức toán học, khoa học, và công nghệ để xác định, mô hình và giải quyết các vấn đề công nghệ.
+(Apply the knowledge of mathematics, science, and engineering to identify, formulate, and solve engineering problems).
+LO5: Thiết kế và thực hiện các thực nghiệm, cũng như phân tích, đánh giá, và diễn giải các kết quả thực nghiệm.
+(Design and conduct experiments, as well to analyze and interpret data).
+LO6: Thiết kế hệ thống, các thành phần, các tiến trình phù hợp với những ràng buộc thực tế trên nhiều khía cạnh như kinh tế, môi trường, xã hội, chính trị, văn hóa, an toàn sức khỏe, công nghiệp và bền vững.
+(Design a system, component, or process to meet desired needs within realistic constraints such as economic, environmental, social, political, ethical, health and safety, manufacturability, and sustainability).
+LO7: Nhận biết, mô hình, và giải quyết các vấn đề công nghệ.
+(Identify, formulate, and solve engineering problems).
+LO8: Thể hiện được tri thức và năng lực làm việc với các vấn đề đương đại (Demonstrate a working knowledge of contemporary issues).
+LO9: Áp dụng các kỹ thuật, kỹ năng và công cụ công nghệ hiện đại vào thực hành (Apply the techniques, skills, and modern engineering tools necessary for engineering practice).
+LO10: Chuyển đổi các lý thuyết và khái niệm kỹ thuật vào các ứng dụng thực tế (Transition from engineering concepts and theory to real engineering applications).
+
+Nghề nghiệp, vị trí việc làm sau khi tốt nghiệp ngành Công nghê thông tin chất lượng cao(CLC):
+Sau khi tốt nghiệp sinh viên có thể đảm nhận tốt các vị trí công việc sau:
+(1) Cán bộ kỹ thuật, quản lý, điều hành trong lĩnh vực công nghệ thông tin (Technical, managerial and executive officers in information technology sector);
+(2) Lập trình viên, các nhà quản trị hệ thống, quản trị bảo mật hệ thống công nghệ thông tin trong bất kỳ doanh nghiệp nào (Programmers, system administrators, information technology system security administrators in companies);
+(3) Làm việc trong các dự án với vai trò là người quản trị dự án về công nghệ thông tin (Project Administrator in information technology projects);
+(4) Cán bộ nghiên cứu, cán bộ giảng dạy về công nghệ thông tin tại các viện, trung tâm nghiên cứu và các cơ sở đào tạo (Information technology researcher and lectures at research centers and training institutions);
+(5) Có thể tiếp tục học tiếp lên trình độ sau đại học ở trong nước và nước ngoài (Continue to study to graduate level abroad).
+
+Điều kiện tuyển sinh ngành Công nghệ thông tin chất lượng cao(CLC):
+a) Thí sinh là người Việt Nam đã trúng tuyển vào đại học hệ chính quy ở các ngành thuộc Nhóm ngành Kỹ thuật trong kỳ thi tuyển sinh đại học hệ chính quy của Học viện Công nghệ Bưu chính Viễn thông;
+b) Thí sinh là người nước ngoài có văn bằng tốt nghiệp tương đương văn bằng tốt nghiệp THPT của Việt Nam, có đủ năng lực tiếng Việt và tiếng Anh để học tập và nghiên cứu;
+c) Có trình độ tiếng Anh tối thiểu từ TOEFL iBT 31 điểm hoặc IELTS 4,0 điểm trở lên (tương đương với trình độ Bậc 3/6 theo khung năng lực ngoại ngữ 6 bậc của Việt Nam) hoặc tương đương (thí sinh chưa đạt yêu cầu trình độ tiếng Anh sẽ phải học khóa học tiếng Anh tăng cường trong học kỳ đầu tiên);
+d) Tự nguyện tham gia học và cam kết đóng học phí theo quy định của Học viện.
+a) Là người đã tốt nghiệp THPT hoặc tương đương, tham dự và trúng tuyển (đạt các yêu cầu đầu vào) trong kỳ tuyển sinh đại học hệ chính quy với Tổ hợp xét tuyển: Toán, Lý, Hóa (A00 – khối A); hoặc Toán, Lý, Anh văn (A01 – khối A1) hoặc các phương án xét tuyển riêng của Học viện Công nghệ Bưu chính Viễn thông.
+Hoặc:
+a) Là thí sinh đã trúng tuyển vào đại học hệ chính quy ở các ngành thuộc Nhóm ngành Kỹ thuật trong kỳ thi tuyển sinh đại học hệ chính quy của Học viện Công nghệ Bưu chính Viễn thông;
+b) Có trình độ tiếng Anh tối thiểu từ TOEFL iBT 31 điểm hoặc IELTS 4,0 điểm trở lên (tương đương với trình độ Bậc 3/6 theo khung năng lực ngoại ngữ 6 bậc của Việt Nam) hoặc tương đương (thí sinh chưa đạt yêu cầu trình độ tiếng Anh sẽ phải học khóa học tiếng Anh tăng cường trong học kỳ đầu tiên);
+
+Phạm vi tuyển sinh ngành Công nghệ thông tin chất lượng cao(CLC): Học viện tuyển sinh trên phạm vi cả nước, thí sinh đăng ký xét tuyển vào Cơ sở đào tạo (BVH hoặc BVS) nào thì sẽ theo học tại Cơ sở đó.
+
+Phương thức tuyển sinh ngành Công nghệ thông tin chất lượng cao(CLC):
+Học viện Công nghệ Bưu chính Viễn thông sử dụng 04 phương thức tuyển sinh như sau:
+a) Tuyển thẳng và ưu tiên xét tuyển: Học viện xét tuyển thẳng và ưu tiên xét tuyển theo Quy chế tuyển sinh hiện hành của Bộ Giáo dục và Đào tạo (có thông báo chi tiết riêng);
+b) Xét tuyển dựa vào kết quả điểm thi tốt nghiệp THPT;
+c) Xét tuyển kết hợp giữa kết quả học tập ở bậc THPT với một trong các loại Chứng chỉ quốc tế hoặc Thành tích cá nhân trong các kỳ thi tuyển chọn học sinh giỏi như đã nêu trong điểm c) mục 1. về Đối tượng tuyển sinh ở trên (chi tiết sẽ có trong thông báo tuyển sinh);
+d) Xét tuyển dựa kết quả bài thi đánh giá năng lực hoặc đánh giá tư duy.

@@ -1,0 +1,80 @@
+THÔNG TIN VỀ NGÀNH KỸ THUẬT ĐIỀU KHIỂN VÀ TỰ ĐỘNG HÓA TẠI HỌC VIỆN CÔNG NGHỆ BƯU CHÍNH VIỄN THÔNG
+Mã ngành Kỹ thuật điều khiển và tự động hóa là 7520216
+Thời gian đào tạo ngành Kỹ thuật điều khiển và tự động hóa 4.5 năm có tổng cộng 9 học kỳ, trong đó 8 học kì tích lũy kiến thức tại Học viện và 1 kỳ thực tập chuyên sâu, thực tập thực tế tại doanh nghiệp. Cuối khóa, sinh viên làm Khóa luận tốt nghiệp hoặc hoàn thành các học phần thay thế tốt nghiệp.
+Sinh viên được đào tạo theo phương thức đào tạo tín chỉ, áp dụng Quy chế đào tạo tín chỉ hiện hành của Bộ Giáo dục & Đào tạo và của Học viện.
+Nơi đào tạo ngành Kỹ thuật điều khiển và tự động hóa tại cơ sở ở TP. Hồ Chí Minh và Hà Nội
+Ngành Kỹ thuật điều khiển và tự động hóa (Chương trình đào tạo được xây dựng với 3 chuyên ngành là (1) Chuyên ngành Mạng và dịch vụ, (2) Chuyên ngành Thông tin vô tuyến và di động, (3) Chuyên ngành Hệ thống IoT)
+Khối lượng chương trình ngành Kỹ thuật điều khiển và tự động hóa: 152 tín chỉ (không bao gồm Giáo dục thể chất, Giáo dục quốc phòng và Kỹ năng mềm)
+Tổ hợp xét tuyển ngành Kỹ thuật điều khiển và tự động hóa: Toán – Lý – Hóa (A00) hoặc Toán – Lý – Anh (A01)
+
+Chuẩn đầu ra ngành Kỹ thuật điều khiển và tự động hóa:
+1. Chuẩn về kiến thức
+[LO1] Hiểu và vận dụng được kiến thức cơ bản về Lý luận chính trị và các kiến thức về pháp luật Việt Nam vào giải quyết các vấn đề kinh tế-xã hội trong thực tiễn.
+[LO2] Áp dụng các kiến thức toán học, vật lý, điện tử và tin học để nghiên cứu, tính toán, thiết kế các hệ thống kỹ thuật Rô bốt, điều khiển tự động hóa; Vận dụng kiến thức khoa học xã hội để nhận biết, tìm hiểu, phân tích, đánh giá các vấn đề đương đại.
+[LO3] Sử dụng các kiến thức cơ sở ngành về điện-điện tử, điều khiển tự động, cơ khí-động lực học, lập trình, giải thuật thông minh để phân tích, tính toán, mô phỏng các hệ thống điều khiển và tự động hóa, hệ thống rô bốt và trí tuệ nhân tạo.
+[LO4] Áp dụng khối kiến thức ngành và chuyên ngành để phân tích, đánh giá và diễn giải các kết quả thực nghiệm, thiết kế và thực hiện các thuật toán điều khiển thông minh, các hệ thống Rô bốt, điều khiển tự động hóa trong công nghiệp; xây dựng, tích hợp các thành phần, các tiến trình trong hệ thống robot, điều khiển tự động hóa phù hợp với những ràng buộc thực tế trên nhiều khía cạnh như kinh tế, môi trường, chính trị, văn hóa, xã hội, an toàn sức khỏe và bền vững.
+2. Chuẩn về kỹ năng
+2.1 Kỹ năng nghề nghiệp
+* Chuyên ngành Điều khiển và tự động hóa
+[LO5-Đ]: Kỹ năng phân tích và thiết kế một phần hoặc toàn bộ một thiết bị, một hệ thống, một quá trình trong lĩnh vực điều khiển và tự động hóa. Thực hiện các sản phẩm điều khiển tự động có tính hiện đại, bền vững, đáp ứng được các nhu cầu về phát triển kinh tế, xã hội và môi trường.
+[LO6-Đ]: Sử dụng thành thạo các thuật toán, công cụ mô phỏng, thiết kế, kiểm thử trong lĩnh vực điều khiển và tự động hóa.
+[LO7-Đ]: Kỹ năng phân tích và lựa chọn thiết bị, tích hợp xây dựng các hệ thống điều khiển tự động trong các nhà máy công nghiệp. Kỹ năng vận hành bảo trì các thiết bị hệ thống điều khiển tự động trong các nhà máy công nghiệp.
+[LO8-Đ]: Áp dụng sáng tạo các tri thức học được vào giải quyết các bài toán trong lĩnh vực xây dựng, phát triển và vận hành hệ thống điểu khiển, tự động hóa.
+* Chuyên ngành Rô bốt và Trí tuệ nhân tạo
+[LO5-R]: Kỹ năng phân tích, thiết kế các khối điều khiển, giao tiếp ngoại vi, các bộ phận cơ khí, điện-điện tử thành phần, thiết kế kiểu dáng rô bốt; có khả năng xây dựng, phát triển hoặc triển khai, vận hành bảo dưỡng các hệ thống rô bốt phục vụ trong các nghiên cứu, sản xuất công nghiệp và cuộc sống.
+[LO6-R]: Sử dụng thành thạo các thuật toán, giải thuật thông minh, công cụ về lập trình robot, các khối điều khiển ngoại vi, học sâu và trí tuệ nhân tạo; các công cụ thiết kế, mô phỏng, kiểm thử trợ giúp thiết kế hệ thống, thiết kế cơ điện, hệ thống thủy lực - khí nén, các bộ phận điều khiển, truyền thông, cảm biến, đo lường và các cơ cấu chấp hành, kiểu dáng rô bốt.
+[LO7-R]: Kỹ năng phân tích, tổng hợp, đánh giá dữ liệu và thông tin và sử dụng những thành tựu mới về khoa học công nghệ để giải quyết những vấn đề thực tế hay trừu tượng trong lĩnh vực rô bốt.
+[LO8-R]: Áp dụng sáng tạo các tri thức học được, đặc biệt lý thuyết học sâu, mô hình trí tuệ nhân tạo vào giải quyết các bài toán trong xây dựng, phát triển, vận hành, bảo dưỡng các hệ thống rô bốt thông minh.
+2.2 Kỹ năng mềm
+[LO9] Có khả năng làm việc nhóm, xây dựng và tổ chức nhóm làm việc, lãnh đạo hoạt động và phát triển nhóm, hoạt động hiệu quả trong các nhóm đa ngành, đa lĩnh vực.
+[LO10] Có khả năng giao tiếp, lập kế hoạch, thuyết trình, trình bày ý tưởng, thảo luận hiệu quả trong các nhóm làm việc và nhiều môi trường làm việc khác nhau cả trong nước và quốc tế.
+[LO11] Có trình độ tiếng Anh 450 điểm TOEIC quốc tế trở lên hoặc tương đương.
+[LO12] Có khả năng sử dụng thành thạo máy vi tính và các ứng dụng văn phòng phục vụ công việc.
+3. Năng lực tự chủ và trách nhiệm
+[LO13] Có ý thức nghề nghiệp, trách nhiệm công dân, chủ động sáng tạo trong công việc; có phẩm chất đạo đức tốt, tính kỷ luật cao; hiểu biết về các giá trị đạo đức và nghề nghiệp, ý thức về những vấn đề đương đại, hiểu rõ vai trò của các giải pháp kỹ thuật trong bối cảnh kinh tế, môi trường, xã hội toàn cầu và trong bối cảnh riêng của đất nước.
+[LO14] Nhận biết và phân tích bối cảnh và ngoại cảnh tác động đến nghề nghiệp, tình hình đơn vị/tổ chức. Có phương pháp làm việc khoa học và chuyên nghiệp, tự định hướng, thích nghi với các môi trường làm việc khác nhau.
+[LO15] Có khả năng tự học tập, nghiên cứu và tích lũy kinh nghiệm để thích nghi với môi trường làm việc năng động, có thể chuyển tiếp lên các bậc học cao hơn
+
+Nghề nghiệp, vị trí việc làm sau khi tốt nghiệp ngành Điều khiển và tự động hóa:
+Sau khi tốt nghiệp, các kỹ sư ngành Kỹ thuật điều khiển và tự động hóa có thể đảm nhận tốt các vị trí là kỹ sư nghiên cứu, kỹ sư thiết thiết kế, cán bộ kỹ thuật, cán bộ điều hành tại các Viện nghiên cứu, các trung tâm nghiên cứu phát triển, các khu công nghiệp, nhà máy chế tạo các sản phẩm điện, điện tử, rô bốt, tự động hóa. Cụ thể, có đủ năng lực đảm nhận các vị trí công việc ở những lĩnh vực sau:
+- Lĩnh vực các cơ quan nhà nước: Sở khoa học công nghệ, sở công thương, viện kinh tế xã hội, ban quản lý khu chế xuất và khu công nghiệp, trung tâm tiêu chuẩn đo lường chất lượng, trung tâm kỹ thuật và ứng dụng công nghệ, trung tâm khuyến công và tư vấn phát triển công nghiệp;
+- Lĩnh vực các doanh nghiệp: Công ty tư vấn thiết kế, công ty xây lắp, công ty tư vấn giám sát công trình, công ty thương mại về lĩnh vực điện, điện tử và tự động hóa, hệ thống nhúng công nghiệp, các công ty ứng dụng nhiều robot và trí tuệ nhân tạo trong hoạt động sản xuất, kinh doanh;
+- Lĩnh vực các nhà máy sản xuất: Các nhà máy xi nghiệp sản xuất công nghiệp với vai trò người trực tiếp hay quản lý điều hành như:
++ Kỹ sư bảo trì các hệ thống rô bốt, điều khiển và tự động hóa trong các nhà máy công nghiệp.
++ Kỹ sư phân tích dữ liệu cho các ứng dụng công nghiệp.
++ Kỹ sư lập trình nhúng cho các hệ thống điều khiển.
++ Kỹ sư thiết kế, bảo trì, vận hành rô bốt thông minh.
+- Lĩnh vực giáo dục và nghiên cứu khoa học: Các trường đại học, cao đẳng, trung cấp chuyên nghiệp, cao đẳng trung cấp nghề, trung tâm đào tạo nghề, các viện/trung tâm nghiên cứu chuyển giao công nghệ thuộc các lĩnh vực điện, điện tử, rô bốt và tự động hóa.
+- Với nền tảng kiến thức lý thuyết và thực tiễn vững chắc về Kỹ thuật điều khiển và tự động hóa, sinh viên cũng có thể tự tạo lập doanh nghiệp và tìm kiếm cơ hội kinh doanh riêng cho bản thân hoặc tiếp tục học cao hơn ở trình độ Thạc sĩ, Tiến sĩ (Kỹ thuật điện tử, Kỹ thuật điều khiển, Tự động hóa, Kỹ thuật rô bốt) ở trong và ngoài nước.
+
+Điều kiện tuyển sinh ngành Kỹ thuật điều khiển và tự động hóa:
+a) Quy định chung:
+- Đối tượng dự tuyển được xác định tại thời điểm xét tuyển (trước khi công bố kết quả xét tuyển chính thức) là các thí sinh đã được công nhận tốt nghiệp trung học phổ thông (THPT) của Việt Nam hoặc có bằng tốt nghiệp của nước ngoài được công nhận trình độ tương đương hoặc đã có bằng tốt nghiệp trung cấp ngành nghề thuộc cùng nhóm ngành dự tuyển và đã hoàn thành đủ yêu cầu khối lượng kiến thức văn hóa cấp THPT theo quy định của pháp luật;
+- Có đủ thông tin cá nhân, hồ sơ dự tuyển theo quy định;
+- Đáp ứng các điều kiện khác theo quy chế tuyển sinh hiện hành của Bộ Giáo dục và Đào tạo và của Học viện.
+b) Đối với Phương thức 1 - Xét tuyển tài năng:
+Ngoài các yêu cầu theo quy định chung ở mục a) thì thí sinh cần có thêm một trong các điều kiện như sau:
+(1) Xét tuyển thẳng và ưu tiên xét tuyển: thí sinh là thành viên đội tuyển Olympic quốc tế hoặc đoạt giải Quốc gia, Quốc tế theo Quy chế tuyển sinh hiện hành của Bộ Giáo dục và Đào tạo và của Học viện (có thông báo chi tiết riêng).
+(2) Xét tuyển dựa vào hồ sơ năng lực: thí sinh cần có thêm một trong các điều kiện sau đây:
+Thí sinh đoạt giải Khuyến khích trong kỳ thi chọn học sinh giỏi quốc gia hoặc đã tham gia kỳ thi chọn học sinh giỏi quốc gia hoặc đoạt giải Nhất, Nhì, Ba, Khuyến khích trong kỳ thi chọn học sinh giỏi cấp Tỉnh, Thành phố trực thuộc Trung ương (TW) các môn Toán, Lý, Hóa, Tin học và có kết quả điểm trung bình chung học tập lớp 10, 11, 12 hoặc học kỳ 1 lớp 12 (nếu chưa có kết quả năm học lớp 12) đạt từ 7,5 trở lên và có hạnh kiểm Khá trở lên;
+Là học sinh chuyên các môn Toán, Lý, Hóa, Tin học của trường THPT chuyên trên phạm vi toàn quốc (các trường THPT chuyên thuộc Tỉnh, Thành phố trực thuộc TW và các trường THPT chuyên thuộc Cơ sở giáo dục đại học) hoặc hệ chuyên thuộc các trường THPT trọng điểm quốc gia; Và có kết quả điểm trung bình chung học tập lớp 10, 11, 12 hoặc học kỳ 1 lớp 12 (nếu chưa có kết quả năm học lớp 12) đạt từ 7,5 trở lên và có hạnh kiểm Khá trở lên.
+c) Đối với Phương thức 2 - Xét tuyển dựa vào kết quả thi tốt nghiệp THPT năm 2024:
+Ngoài các yêu cầu theo quy định chung ở mục a) thì thí sinh phải tham dự kỳ thi tốt nghiệp THPT năm 2024 với các bài thi/môn thi theo tổ hợp xét tuyển tương ứng các ngành của Học viện.
+d) Đối với Phương thức 3 - Xét tuyển kết hợp:
+Ngoài các yêu cầu theo quy định chung ở mục a) thì thí sinh cần có thêm một trong các điều kiện sau đây:
+Thí sinh có Chứng chỉ quốc tế SAT, trong thời hạn 02 năm (tính đến ngày xét tuyển) từ 1130/1600 trở lên hoặc ACT từ 25/36 trở lên; và có kết quả điểm trung bình chung học tập lớp 10, 11, 12 hoặc học kỳ 1 lớp 12 (nếu chưa có kết quả năm học lớp 12) đạt từ 7,5 trở lên và có hạnh kiểm Khá trở lên;
+Thí sinh có Chứng chỉ tiếng Anh quốc tế trong thời hạn (tính đến ngày xét tuyển) đạt IELTS 5.5 trở lên hoặc TOEFL iBT 65 trở lên hoặc TOEFL ITP 513 trở lên; và có kết quả điểm trung bình chung học tập lớp 10, 11, 12 hoặc học kỳ 1 lớp 12 (nếu chưa có kết quả năm học lớp 12) đạt từ 7,5 trở lên và có hạnh kiểm Khá trở lên.
+e) Đối với Phương thức 4 - Xét tuyển dựa vào kết quả bài thi đánh giá năng lực (ĐGNL) hoặc đánh giá tư duy (ĐGTD):
+Ngoài các yêu cầu theo quy định chung ở mục a) thì thí sinh cần có thêm một trong các điều kiện sau đây:
+Thí sinh có điểm thi đánh giá năng lực của Đại học quốc gia Hà Nội (HSA) năm 2024 từ 75 điểm trở lên;
+Thí sinh có điểm thi đánh giá năng lực của Đại học quốc gia Tp. Hồ Chí Minh (APT) năm 2024 từ 600 điểm trở lên;
+Thí sinh có điểm thi đánh giá tư duy của Đại học Bách khoa Hà Nội (TSA) năm 2024 từ 50 điểm trở lên.
+
+Phạm vi tuyển sinh ngành Kỹ thuật điều khiển và tự động hóa: Học viện tuyển sinh trên phạm vi cả nước, thí sinh đăng ký xét tuyển vào Cơ sở đào tạo (BVH hoặc BVS) nào thì sẽ theo học tại Cơ sở đó.
+
+Phương thức tuyển sinh ngành Kỹ thuật điều khiển và tự động hóa:
+Học viện Công nghệ Bưu chính Viễn thông sử dụng 04 phương thức tuyển sinh như sau:
+a) Tuyển thẳng và ưu tiên xét tuyển: Học viện xét tuyển thẳng và ưu tiên xét tuyển theo Quy chế tuyển sinh hiện hành của Bộ Giáo dục và Đào tạo (có thông báo chi tiết riêng);
+b) Xét tuyển dựa vào kết quả điểm thi tốt nghiệp THPT;
+c) Xét tuyển kết hợp giữa kết quả học tập ở bậc THPT với một trong các loại Chứng chỉ quốc tế hoặc Thành tích cá nhân trong các kỳ thi tuyển chọn học sinh giỏi như đã nêu trong điểm c) mục 1. về Đối tượng tuyển sinh ở trên (chi tiết sẽ có trong thông báo tuyển sinh);
+d) Xét tuyển dựa kết quả bài thi đánh giá năng lực hoặc đánh giá tư duy.
