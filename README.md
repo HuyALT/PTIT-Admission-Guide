@@ -1,7 +1,7 @@
-# Chatbot-TuyenSinhPTIT2024
+# PTIT Admissions Chatbot
 ![alt](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 ![alt](https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black)
 
-# Sử dụng 2 cách để tạo ra chatbot
-- Fine-tuning: tạo ra mô hình chatbot. Tuy nhiên cách này làm cho mô hình bị "hallucinations" và không thể áp dụng thực tế
-- Retrieve augmented generation: vận dụng sức mạnh của mô hình ngôn ngữ lớn (LLM) để tạo ra phản hồi.
+# Use 2 ways to create chatbot
+- Fine-tuning: Create a chatbot model. However, this method causes the model to generate "hallucinations" and makes it impractical for real-world applications.
+- Retrieve augmented generation: Leverage the power of large language models (LLMs) to generate responses.
