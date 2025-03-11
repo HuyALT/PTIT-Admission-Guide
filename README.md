@@ -5,7 +5,8 @@
 # Data
 - All PTIT admission information for 2024
 # LLM Model base
-- Fine-tuning: ![alt].(Llama 2).(https://huggingface.co/meta-llama/Llama-2-7b)
+- Fine-tuning: <a hreft ="https://huggingface.co/meta-llama/Llama-2-7b">Llama 2</a>
+- Retrieve augmented generation: <a hreft = "https://huggingface.co/meta-llama/Llama-3.1-8B">Llama 3.1</a>
 # Use 2 ways to create chatbot
 - Fine-tuning: Create a chatbot model. However, this method causes the model to generate "hallucinations" and makes it impractical for real-world applications.
 - Retrieve augmented generation: Leverage the power of large language models (LLMs) to generate responses.
