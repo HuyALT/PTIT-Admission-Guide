@@ -1,4 +1,4 @@
-# PTIT Admissions Chatbot
+# PTIT Admission Guide 
 ![alt](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 ![alt](https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black)
 
